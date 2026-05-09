@@ -45,7 +45,7 @@ The model file is provided in '.itmx` format.
 
 ## Repository Structure
 
-
+```text
 ├── model/
 │   └── Renewable Model 2024-2050 - VH vPaper.itmx
 │
@@ -63,7 +63,7 @@ The model file is provided in '.itmx` format.
 │   └── equations.txt
 │
 └── README.md
-
+```
 
 ## Description of Data Files
 
