@@ -1,5 +1,7 @@
 # Policy Assessment Platform for the Colombian Electricity Transition to 2050
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20098638.svg)](https://doi.org/10.5281/zenodo.20098638)
+
 ## Overview
 
 This repository contains the system dynamics model and supporting datasets used in the study:
